@@ -7,7 +7,7 @@ A collaborative guide by [list all team member names].
 - [VS Code](#vs-code)
 - [Notion](#notion)
 - [Canva](#canva)
-
+- [ChatGPT](#chatgpt)
 ## Introduction
 This guide covers tools that every student should know about.
 Each section is written by a different team member.
