@@ -1,5 +1,5 @@
 # Useful Tools for Students
-team member 5
+team member 5 Tidal Okoth 
 A collaborative guide by
 Benson Kimani
 Isaac Macharia
